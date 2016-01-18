@@ -32,4 +32,5 @@ exists to fulfill a final project requirement for the University of New Hampshir
 CS830 Introduction to Artificial Intelligence.
 
 [Download Link](https://www.maxrenke.com/gppc_2015_maxwell_renke.pdf)
+
 [Repo Link](https://github.com/maxrenke/gppc-2015-submission)
