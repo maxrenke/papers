@@ -14,7 +14,7 @@ market. This paper will examine exactly how Bitcoins work, why the technology is
 look at Bitcoins history, provide insight into the future of transactions on a global scale, and
 ultimately answer the question “What gives money its value?”
 
-[Download Link](https://www.maxrenke.com/bitcoin_research.pdf)
+[Download Link](http://www.maxrenke.com/bitcoin_research.pdf)
 
 ## Speedy and Weighted A* Implementations for the Grid-Based Path-Planning Competition
 Abstract:
@@ -31,6 +31,6 @@ the Grid-Based Path-Planning Competition. This paper also
 exists to fulfill a final project requirement for the University of New Hampshire Computer Science Department course
 CS830 Introduction to Artificial Intelligence.
 
-[Download Link](https://www.maxrenke.com/gppc_2015_maxwell_renke.pdf)
+[Download Link](http://www.maxrenke.com/gppc_2015_maxwell_renke.pdf)
 
 [Repo Link](https://github.com/maxrenke/gppc-2015-submission)
